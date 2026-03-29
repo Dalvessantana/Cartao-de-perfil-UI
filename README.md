@@ -4,7 +4,7 @@
 
 Projeto de um cartão de perfil moderno desenvolvido com HTML e CSS, com foco em design limpo, responsivo e visualmente atrativo. Ideal para treinar conceitos de front-end e construção de interfaces.
 
-<h1>📌 Sobre o Projeto</h1>
+<h2>📌 Sobre o Projeto</h2>
 
 Este projeto apresenta um card de perfil contendo:
 
@@ -16,7 +16,7 @@ Indicadores de interação (curtidas, comentários, compartilhamentos)
 
 O objetivo é simular um componente real utilizado em interfaces modernas, como perfis de usuários em plataformas digitais.
 
-<h1>🎨 Design</h1>
+<h2>🎨 Design</h2>
 
 O layout foi pensado para transmitir:
 
@@ -27,14 +27,14 @@ Boa hierarquia de informações
 
 Com uso de cores suaves, cantos arredondados e elementos centralizados.
 
-<h1>🚀 Tecnologias Utilizadas</h1>
+<h2>🚀 Tecnologias Utilizadas</h2>
 HTML5
 CSS
 📱 Responsividade
 
 O projeto pode ser adaptado para diferentes tamanhos de tela, mantendo a estrutura e o alinhamento dos elementos.
 
-<h1>⚙️ Funcionalidades</h1>
+<h2>⚙️ Funcionalidades</h2>
 
 Exibição de perfil do usuário
 Botões de ação (Contato e Mensagem)
@@ -49,7 +49,7 @@ Indicadores visuais de interação
  ┗ 📄 README.md
 
  
-<h1>💡 Objetivo do Projeto</h1>
+<h2>💡 Objetivo do Projeto</h2>
 
 Este projeto foi criado com o intuito de:
 
@@ -59,7 +59,7 @@ Criar componentes reutilizáveis
 Desenvolver senso estético para interfaces
 
 
-<h1>📌 Melhorias Futuras</h1>
+<h2>📌 Melhorias Futuras</h2>
 Adicionar animações com CSS
 Implementar versão com JavaScript
 Tornar totalmente responsivo
