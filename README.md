@@ -1,4 +1,4 @@
-👇
+
 
 📇 Card de Perfil - Dev & Design
 
